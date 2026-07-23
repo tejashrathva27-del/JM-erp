@@ -1,0 +1,6 @@
+{
+  "name": "JM ERP",
+  "description": "Enterprise Resource Planning System for Jamavat Masala Manufacturing & Distribution",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
